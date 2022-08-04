@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #2e2933;
+    padding: 20px;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+ul>li{
+    font-size: 20px;
+}
+
+.title_app_movie{
+    margin-right: 20px;
+    color: aliceblue;
+}
+.nav-link{
+    color: aliceblue;
+}

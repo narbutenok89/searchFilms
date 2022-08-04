@@ -1,0 +1,22 @@
+.container_form{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+form{
+    width: 70%;
+    margin: 0;
+    padding: 0;
+}
+.result{
+    padding: 0px 20px;
+    align-items: stretch;
+}
+.h2{
+    padding-left: 30px;
+    padding-top: 20px;
+    text-align: left;
+} 

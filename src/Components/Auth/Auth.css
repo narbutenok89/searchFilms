@@ -1,0 +1,35 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;    
+}
+#username, #password {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+button:hover {
+    opacity: 0.8;
+  }
+  .button{
+      margin-top: 5px;
+  }
+  
+  
+  .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+  }
+  .input_password, .input_username {
+    width: 70%;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }

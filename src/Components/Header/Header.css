@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 1rem;
+  background-color: #ceabec;
+  height: 10vh;
+}
+  
+.title_app_movie {
+  font-size: 1.5rem;
+  margin-left: 1rem;
+  margin-right: 2rem;
+  font-weight: bold;
+  color: rgb(15, 15, 74);
+}
